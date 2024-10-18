@@ -82,5 +82,8 @@ a{
     font-style: italic;
 }
 
-
+.container {
+    display: flex;
+    
+}
 
